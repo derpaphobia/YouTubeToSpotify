@@ -1,6 +1,8 @@
 # YouTubeToSpotify
 A script that takes a youtube playlist and tries to recreate it in spotify
 
+* Dependencies: pip3 install pytube spotipy
+
 * Create a spotify web API account or log in to existing one
 * Create new app
 * Create new user with your spotify username
